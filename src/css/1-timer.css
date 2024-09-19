@@ -1,3 +1,9 @@
+.timer-group {
+  position: relative;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
 .timer {
   display: flex;
   gap: 10px;
