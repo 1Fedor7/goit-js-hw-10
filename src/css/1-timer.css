@@ -1,11 +1,13 @@
 .timer-group {
+  text-align: center;
   position: relative;
-  top: 50vh;
+  top: 30vh;
   left: 50vw;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); 
 }
 .timer {
   display: flex;
+  justify-content: center;
   gap: 10px;
 }
 .field {
